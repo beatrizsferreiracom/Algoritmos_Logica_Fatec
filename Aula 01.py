@@ -1,3 +1,5 @@
+#EXERCÍCIOS DE 22/02/2024
+
 #1) Print: Olá mundo!
 
 print ("Olá mundo!")
