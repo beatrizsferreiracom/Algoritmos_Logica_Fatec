@@ -26,14 +26,17 @@ ANO = 2024 - I
 
 print ('Ano aproximado de nascimento: ' + str(ANO))
 
-#4) Perguntar a idade, Calcular dias = idade * 365, Dar a mensagem apropriada
+#4) Perguntar a idade
+#Calcular: dias = idade * 365
+#Dar a mensagem apropriada
 
 I = int(input("Insira sua idade: "))
 dias = 365 * I
 
 print('Você viveu aproximadamente ' + str(dias) + ' dias.')
 
-#5) Perguntar para o usuário o total de reais, Calcular quantos centavos são: centavos = reais * 100
+#5) Perguntar para o usuário o total de reais
+#Calcular quantos centavos são: centavos = reais * 100
 
 reais = int(input('Insira o valor: R$'))
 centavos = reais * 100
@@ -47,7 +50,9 @@ real = dolar * 4.97
 
 print ('O valor em é real é de: R$' + str(real))
 
-#7) Leia um número inteiro do usuário na variável N1, Leia outro número do usuário na variável N2, Calcule a soma das 2 variáveis: soma = N1 + N2
+#7) Leia um número inteiro do usuário na variável N1
+#Leia outro número do usuário na variável N2
+#Calcule a soma das 2 variáveis: soma = N1 + N2
 
 N1 = float(input('Insira o valor 1: '))
 N2 = float(input('Insira o valor 2: '))
@@ -63,7 +68,9 @@ area = lado * 4
 
 print ('A área do quadrado é de ' + str(area) + ' centímetros.')
 
-#9) Leia um número float do usuário na variável Número1, Leia outro número float do usuário variável Número2, Calcule a multiplicação das 2 variáveis: resultado = Número1 * Número2
+#9) Leia um número float do usuário na variável Número1
+#Leia outro número float do usuário variável Número2
+#Calcule a multiplicação das 2 variáveis: resultado = Número1 * Número2
 
 Número1 = float(input('Insira o valor 1: '))
 Número2 = float(input('Insira o valor 2: '))
