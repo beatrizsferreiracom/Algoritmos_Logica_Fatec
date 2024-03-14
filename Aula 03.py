@@ -10,6 +10,8 @@ raio = float(input('Digite o raio do círculo em cm: '))
 area = 3.1415 * (raio * raio)
 
 print('A área do círculo é de ' + str(area) + ' cm².')
+print('=====================================')
+print('                                     ')
 
 
 #2) Faça um programa que:
@@ -24,6 +26,8 @@ nota2 = float(input('Digite a segunda nota: '))
 media = (nota1 * 0.5) + (nota2 * 0.5)
 
 print('A média final é de ' + str(media) + ' pontos.')
+print('=====================================')
+print('                                     ')
 
 
 #3) Faça um programa que leia
@@ -37,6 +41,8 @@ trab = float(input('Digite a nota do trabalho: '))
 media = (TCC * 0.3) + (prova * 0.5) + (trab * 0.2)
 
 print('A média final foi de ' + str(media) + ' pontos.')
+print('=====================================')
+print('                                     ')
 
 
 #4) Faça um programa que leia o total da conta do restaurante.
@@ -49,6 +55,8 @@ gorjeta = total * (10/100)
 conta = total + gorjeta
 
 print('O valor a ser pago é: R$' + str(round(conta, 2)))
+print('=====================================')
+print('                                     ')
 
 
 #5) Faça um programa que leia: peso, altura
@@ -60,6 +68,8 @@ altura = float(input('Digite a altura em m: '))
 imc = peso / (altura * altura)
 
 print('O valor do IMC é: ' + str(round(imc, 1)))
+print('=====================================')
+print('                                     ')
 
 
 #6) Faça um programa que leia: O total da compra, o valor do desconto, o valor dos juros
@@ -72,6 +82,8 @@ juros = float(input('Insira o valor dos juros: R$'))
 conta = total - desconto + juros
 
 print('O valor total da conta é de: R$' + str(conta))
+print('=====================================')
+print('                                     ')
 
 
 #7) Faça um programa que leia uma distância em metros e mostre: 
@@ -83,6 +95,8 @@ centimetros = metro * 100
 milimetros = metro * 1000
 
 print('A distância percorrida é de ' + str(centimetros) + ' centímetros ou ' + str(milimetros) + ' milímetros.' )
+print('=====================================')
+print('                                     ')
 
 
 #8) Faça um programa que leia: nome, nome do meio, sobrenome
@@ -95,6 +109,8 @@ sobrenome = input('Digite o sobrenome: ')
 nomeC = nome + ' ' + nomeMeio + ' ' + sobrenome
 
 print(nomeC)
+print('=====================================')
+print('                                     ')
 
 
 #9) Faça um programa que leia do usuário o salário.
@@ -110,6 +126,8 @@ inss = salario * 0.17
 valor = salario - imposto - inss
 
 print('O valor do salário líquido é de: R$' + str(valor))
+print('=====================================')
+print('                                     ')
 
 
 #Extra 1: Faça um programa que leia do usuário a temperatura em Celsius e mostre em Fahrenheit.
@@ -119,6 +137,8 @@ celsius = float(input('Insira a temperatura em graus Celsius: '))
 fah = (celsius * 1.8) + 32
 
 print('A temperatura em Fahrenheit é de ' + str(fah) + '°F')
+print('=====================================')
+print('                                     ')
 
 
 #Extra 2: Faça uma programa que calcule Δ da fórmula de Bhaskara:
@@ -131,6 +151,8 @@ C = float(input('Insira o valor de C: '))
 bhaska = (B * B) - 4 * A * C
 
 print('O valor de Δ é: ' + str(bhaska))
+print('=====================================')
+print('                                     ')
 
 
 #Extra 3) Faça um programa que leia um valor em reais e mostre o total em:
