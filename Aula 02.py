@@ -6,6 +6,8 @@ print ('Eu sou d+!')
 
 nome = input('Informe nome: ') + ' ' + input('Informe sobrenome: ')
 print ('Seu nome, ' + nome + ', é lindo!')
+print('=====================================')
+print('                                     ')
 
 
 #2) Input
@@ -19,6 +21,8 @@ C = input ('Informe sua cidade: ')
 print ('Nome: ' + N)
 print ('Idade: ' + I)
 print ('Cidade ' + C)
+print('=====================================')
+print('                                     ')
 
 
 #3) Int
@@ -27,6 +31,8 @@ I = int(input('Qual sua idade: '))
 ANO = 2024 - I
 
 print ('Ano aproximado de nascimento: ' + str(ANO))
+print('=====================================')
+print('                                     ')
 
 
 #4) Perguntar a idade
@@ -37,6 +43,8 @@ I = int(input("Insira sua idade: "))
 dias = 365 * I
 
 print('Você viveu aproximadamente ' + str(dias) + ' dias.')
+print('=====================================')
+print('                                     ')
 
 
 #5) Perguntar para o usuário o total de reais
@@ -46,6 +54,8 @@ reais = int(input('Insira o valor: R$'))
 centavos = reais * 100
 
 print ('O valor em centavos é de: R$' + str(centavos))
+print('=====================================')
+print('                                     ')
 
 
 #6) Leia do usuário um valor em dólares e converta para real
@@ -54,6 +64,8 @@ dolar = float(input('Insira o valor em dólares: US$'))
 real = dolar * 4.97
 
 print ('O valor em é real é de: R$' + str(real))
+print('=====================================')
+print('                                     ')
 
 
 #7) Leia um número inteiro do usuário na variável N1
@@ -66,6 +78,8 @@ N2 = float(input('Insira o valor 2: '))
 soma = N1 + N2
 
 print('O total da soma é: ' + str(soma))
+print('=====================================')
+print('                                     ')
 
 
 #8) Leia do usuário o tamanho de um lado do quadrado e calcule a área
@@ -74,6 +88,8 @@ lado = float(input('Insira o tamanho do lado (em cm): '))
 area = lado * 4
 
 print ('A área do quadrado é de ' + str(area) + ' centímetros.')
+print('=====================================')
+print('                                     ')
 
 
 #9) Leia um número float do usuário na variável Número1
@@ -85,6 +101,8 @@ Número2 = float(input('Insira o valor 2: '))
 multi = Número1 * Número2
 
 print('O total da multiplicação é: ' + str(multi))
+print('=====================================')
+print('                                     ')
 
 
 #PB - Leia do usuário um valor em dólares e converta para real
@@ -93,6 +111,8 @@ dolar = float(input('Insira o valor em dólares: US$'))
 real = dolar * 4.97
 
 print ('O valor em é real é de: R$' + str(real))
+print('=====================================')
+print('                                     ')
 
 
 #PC - Leia do usuário o tamanho de um lado do quadrado e calcule a área.
@@ -100,6 +120,8 @@ print ('O valor em é real é de: R$' + str(real))
 lado = float(input('Insira o tamanho do lado (em cm): '))
 area = lado * 4
 print ('A área do quadrado é de ' + str(area) + ' centímetros.')
+print('=====================================')
+print('                                     ')
 
 
 #PD - Leia do usuário a sua idade e mostre quantas horas já viveu
@@ -109,3 +131,5 @@ ano = 24 * 365
 horas = idade * ano
 
 print ('Você já viveu aproximadamente ' + str(horas) + ' horas.')
+print('=====================================')
+print('                                     ')
