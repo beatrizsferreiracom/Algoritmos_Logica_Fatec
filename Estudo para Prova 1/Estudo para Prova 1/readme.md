@@ -24,7 +24,7 @@
 
 ### Exercício 5
 
-- Faça um algoritmo que leia as 3 notas de um aluno e calcule a média final deste aluno. Considerarque a média é ponderada e que o peso das notas é: 2,3 e 5, respectivamente.
+- Faça um algoritmo que leia as 3 notas de um aluno e calcule a média final deste aluno. Considerar que a média é ponderada e que o peso das notas é: 2,3 e 5, respectivamente.
 
 <hr>
 
@@ -36,7 +36,7 @@
 
 ### Exercício 7
 
-- O custo ao consumidor de um carro novo é a soma do custo de fábrica com a percentagem dodistribuidor e dos impostos (aplicados ao custo de fábrica). Supondo que a percentagem dodistribuidor seja de 28% e os impostos de 45%, escrever um algoritmo que leia o custo de fábrica deum carro e escreva o custo ao consumidor.
+- O custo ao consumidor de um carro novo é a soma do custo de fábrica com a percentagem do distribuidor e dos impostos (aplicados ao custo de fábrica). Supondo que a percentagem do distribuidor seja de 28% e os impostos de 45%, escrever um algoritmo que leia o custo de fábrica deum carro e escreva o custo ao consumidor.
 
 <hr>
 
@@ -54,7 +54,7 @@
 
 ### Exercício 10
 
-- Elaborar um algoritmo que lê 3 valores a,b,c e os escreve. A seguir, encontre o maior dos 3valores e o escreva com a mensagem : "É o maior ".
+- Elaborar um algoritmo que lê 3 valores a,b,c e os escreve. A seguir, encontre o maior dos 3 valores e o escreva com a mensagem : "É o maior ".
 
 <hr>
 
@@ -83,7 +83,7 @@
 
 ### Exercício 14
 
-- Escreva um algoritmo que leia o código de um aluno e suas três notas. Calcule a médiaponderada do aluno, considerando que o peso para a maior nota seja 4 e para as duas restantes, 3.Mostre o código do aluno, suas três notas, a média calculada e uma mensagem "APROVADO" se amédia for maior ou igual a 5 e "REPROVADO" se a média for menor que 5.
+- Escreva um algoritmo que leia o código de um aluno e suas três notas. Calcule a média ponderada do aluno, considerando que o peso para a maior nota seja 4 e para as duas restantes, 3. Mostre o código do aluno, suas três notas, a média calculada e uma mensagem "APROVADO" se amédia for maior ou igual a 5 e "REPROVADO" se a média for menor que 5.
 
 <hr>
 
@@ -107,37 +107,37 @@
 
 ### Exercício 18
 
-- Um banco concederá um crédito especial aos seus clientes, variável com o saldo médio no últimoano. Faça um algoritmo que leia o saldo médio de um cliente e calcule o valor do crédito. Mostre uma mensagem informando o saldo médio e o valor do crédito.
+- Um banco concederá um crédito especial aos seus clientes, variável com o saldo médio no últim oano. Faça um algoritmo que leia o saldo médio de um cliente e calcule o valor do crédito. Mostre uma mensagem informando o saldo médio e o valor do crédito.
 
 <hr>
 
 ### Exercício 19
 
-- Um usuário deseja um algoritmo onde possa escolher que tipo de média deseja calcular a partirde 3 notas. Faça um algoritmo que leia as notas, a opção escolhida pelo usuário e calcule a média. (aritmética, ponderada (3,3,4),harmônica).
+- Um usuário deseja um algoritmo onde possa escolher que tipo de média deseja calcular a partir de 3 notas. Faça um algoritmo que leia as notas, a opção escolhida pelo usuário e calcule a média. (aritmética, ponderada (3,3,4), harmônica).
 
 <hr>
 
 ### Exercício 20
 
--  Um vendedor necessita de um algoritmo que calcule o preço total devido por um cliente. Oalgoritmo deve receber o código de um produto e a quantidade comprada e calcular o preço total,usando a tabela abaixo:
+-  Um vendedor necessita de um algoritmo que calcule o preço total devido por um cliente. O algoritmo deve receber o código de um produto e a quantidade comprada e calcular o preço total,usando a tabela abaixo:
 
 <hr>
 
 ### Exercício 21
 
-- Um vendedor precisa de um algoritmo que calcule o preço total devido por um cliente. O algoritmodeve receber o código de um produto e a quantidade comprada e calcular o preço total, usando atabela abaixo. Mostre uma mensagem no caso de código inválido.
+- Um vendedor precisa de um algoritmo que calcule o preço total devido por um cliente. O algoritmo deve receber o código de um produto e a quantidade comprada e calcular o preço total, usando atabela abaixo. Mostre uma mensagem no caso de código inválido.
 
 <hr>
 
 ### Exercício 22
 
-- Uma empresa concederá um aumento de salário aos seus funcionários, variável de acordo com ocargo, conforme a tabela abaixo. Faça um algoritmo que leia o salário e o cargo de um funcionário ecalcule o novo salário. Se o cargo do funcionário não estiver na tabela, ele deverá, então, receber40% de aumento. Mostre o salário antigo, o novo salário e a diferença. 
+- Uma empresa concederá um aumento de salário aos seus funcionários, variável de acordo com ocargo, conforme a tabela abaixo. Faça um algoritmo que leia o salário e o cargo de um funcionário ecalcule o novo salário. Se o cargo do funcionário não estiver na tabela, ele deverá, então, receber 40% de aumento. Mostre o salário antigo, o novo salário e a diferença. 
 
 <hr>
 
 ### Exercício 23
 
-- Elaborar um algoritmo que lê 3 valores a,b,c e verifica se eles formam ou não um triângulo. Suporque os valores lidos são inteiros e positivos. Caso os valores formem um triângulo, calcular e escrevera área deste triângulo. Se não formam triângulo escrever os valores lidos. ( se a > b + c não formamtriângulo algum, se a é o maior).
+- Elaborar um algoritmo que lê 3 valores a,b,c e verifica se eles formam ou não um triângulo. Suporque os valores lidos são inteiros e positivos. Caso os valores formem um triângulo, calcular e escrevera área deste triângulo. Se não formam triângulo escrever os valores lidos. ( se a > b + c não formam triângulo algum, se a é o maior).
 
 <hr>
 
@@ -174,19 +174,19 @@
 
 ### Exercício 28
 
-- Escrever um algoritmo que lê a hora de início e hora de término de um jogo, ambas subdivididasem dois valores distintos : horas e minutos. Calcular e escrever a duração do jogo, também em horase minutos, considerando que o tempo máximo de duração de um jogo é de 24 horas e que o jogopode iniciar em um dia e terminar no dia seguinte.
+- Escrever um algoritmo que lê a hora de início e hora de término de um jogo, ambas subdivididas em dois valores distintos: horas e minutos. Calcular e escrever a duração do jogo, também em horase minutos, considerando que o tempo máximo de duração de um jogo é de 24 horas e que o jogopode iniciar em um dia e terminar no dia seguinte.
 
 <hr>
 
 ### Exercício 29
 
-- Escrever um algoritmo que lê o número de identificação, as 3 notas obtidas por um aluno nas 3verificações e a média dos exercícios que fazem parte da avaliação. O algoritmo deve escrever o número do aluno, suas notas, a média dos exercícios, a média deaproveitamento, o conceito correspondente e a mensagem: APROVADO se o conceito for A,B ou C eREPROVADO se o conceito for D ou E.
+- Escrever um algoritmo que lê o número de identificação, as 3 notas obtidas por um aluno nas 3verificações e a média dos exercícios que fazem parte da avaliação. O algoritmo deve escrever o número do aluno, suas notas, a média dos exercícios, a média de aproveitamento, o conceito correspondente e a mensagem: APROVADO se o conceito for A,B ou C e REPROVADO se o conceito for D ou E.
 
 <hr>
 
 ### Exercício 30
 
-- O departamento que controla o índice de poluição do meio ambiente mantém 3 grupos deindústrias que são altamente poluentes do meio ambiente. O índice de poluição aceitável varia de0,05 até 0,25. Se o índice sobe para 0,3 as indústrias do 1o grupo são intimadas a suspenderem suasatividades, se o índice cresce para 0,4 as do 1o e 2o grupo são intimadas a suspenderem suasatividades e se o índice atingir 0,5 todos os 3 grupos devem ser notificados a paralisarem suasatividades. Escrever um algoritmo que lê o índice de poluição medido e emite a notificação adequadaaos diferentes grupos de empresas.
+- O departamento que controla o índice de poluição do meio ambiente mantém 3 grupos deindústrias que são altamente poluentes do meio ambiente. O índice de poluição aceitável varia de 0,05 até 0,25. Se o índice sobe para 0,3 as indústrias do 1º grupo são intimadas a suspenderem suas atividades, se o índice cresce para 0,4 as do 1º e 2º grupo são intimadas a suspenderem suasatividades e se o índice atingir 0,5 todos os 3 grupos devem ser notificados a paralisarem suasatividades. Escrever um algoritmo que lê o índice de poluição medido e emite a notificação adequadaaos diferentes grupos de empresas.
 
 <hr>
 
