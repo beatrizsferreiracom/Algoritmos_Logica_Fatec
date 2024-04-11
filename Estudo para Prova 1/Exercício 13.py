@@ -11,4 +11,4 @@ elif b > a and b > c:
 elif c > a and c > b:
     print('O valor de C,', c, ', é o maior.')
 else:
-    print('Os valores de A, B e C são iguais:', a)
+    print('Não há valor maior', a)
