@@ -5,9 +5,11 @@
 horaI = int(input('Digite a hora inicial do jogo: '))
 horaF = int(input('Digite a hora final do jogo: '))
 
-duracao = horaF - horaI
+duracao = (24 - horaI) + horaF
 
 if horaI == horaF:
     print('A duração do jogo foi de 24 horas.')
+elif horaI < horaF:
+    print('A duração do jogo foi de', horaF - horaI, 'horas.')
 else:
     print('A duração do jogo foi de', duracao, 'horas.')
