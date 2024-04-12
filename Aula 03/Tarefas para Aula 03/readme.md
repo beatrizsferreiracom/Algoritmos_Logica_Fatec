@@ -1,6 +1,6 @@
 ## EXERCÍCIOS DE 22/02/2024
 
-### 1) Print: Olá mundo!
+1) Print: Olá mundo!
 
 ### 2) Seu nome
 
