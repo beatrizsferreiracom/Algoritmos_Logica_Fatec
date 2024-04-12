@@ -1,21 +1,60 @@
 ## EXERCÍCIOS DE 22/02/2024
 
-1) Print: Olá mundo!
+### Exercício 1
 
-2) Seu nome
+- Print: Olá mundo!
 
-3) Mensagem multilinha
+<hr>
 
-4) Cocatenação de Strings
+### Exercício 2
 
-5) Citação Famosa
+- Seu nome
 
-6) Operações matemáticas simples
+<hr>
 
-7) Listando Informações
+### Exercício 3
 
-8) Formatação com .format()
+- Mensagem multilinha
 
-9) F-Strings
+<hr>
 
-10) Tabela de multiplicação
+### Exercício 4
+
+- Cocatenação de Strings
+
+<hr>
+
+### Exercício 5
+
+- Citação Famosa
+
+<hr>
+
+### Exercício 6
+
+- Operações matemáticas simples
+
+<hr>
+
+### Exercício 7
+
+- Listando Informações
+
+<hr>
+
+### Exercício 8
+
+- Formatação com .format()
+
+<hr>
+
+### Exercício 9
+
+- F-Strings
+
+<hr>
+
+### Exercício 10
+
+- Tabela de multiplicação
+
