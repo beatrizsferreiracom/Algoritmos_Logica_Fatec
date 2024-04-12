@@ -1,3 +1,5 @@
+## EXERCÍCIOS DO DIA 07/03/2024
+
 ### Exercício 1 
 
 - Faça um programa leia do usuário o raio do círculo e calcule a área;
