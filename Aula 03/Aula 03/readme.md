@@ -1,4 +1,4 @@
-## EXERCÍCIOS DE 29/02/2024
+## EXERCÍCIOS DO DIA 29/02/2024
 
 ### Exercício 1
 
