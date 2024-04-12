@@ -1,4 +1,4 @@
-## EXERCÍCIOS DE 22/02/2024
+## EXERCÍCIOS DE 29/02/2024
 
 ### Exercício 1
 
