@@ -29,7 +29,9 @@
 - Leia o salário do funcionário e calcule:
 
 beneficio = salario * 0.1
+
 desconto = salario * 0.06
+
 total = salario + beneficio - desconto
 
 - Se o total for menor que 1500, o imposto é de 0%.
