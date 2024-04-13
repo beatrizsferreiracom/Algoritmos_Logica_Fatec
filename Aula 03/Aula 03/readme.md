@@ -56,9 +56,9 @@
 
 ### Exercício 9
 
-- Leia um número float do usuário na variável Número1
-- Leia outro número float do usuário variável Número2
-- Calcule a multiplicação das 2 variáveis: resultado = Número1 * Número2
+- Leia um número float do usuário na variável Número1.
+- Leia outro número float do usuário variável Número2.
+- Calcule a multiplicação das 2 variáveis.
 
 <hr>
 
