@@ -20,7 +20,7 @@
 
 ### Exercício 4
 
-- Perguntar a idade.
+- Leia do usuário a idade.
 - Calcular dias = idade * 365
 - Dar a mensagem apropriada.
 
@@ -29,7 +29,7 @@
 
 ### Exercício 5
 
-- Perguntar para o usuário o total de reais.
+- Leia do usuário o total de reais.
 - Calcular quantos centavos são: centavos = reais * 100
 
 <hr>
@@ -42,9 +42,9 @@
 
 ### Exercício 7
 
--  Leia um número inteiro do usuário na variável N1
-- Leia outro número do usuário na variável N2
-- Calcule a soma das 2 variáveis: soma = N1 + N2
+- Leia um número inteiro do usuário na variável N1.
+- Leia outro número do usuário na variável N2.
+- Calcule a soma das 2 variáveis.
 
 <hr>
 
