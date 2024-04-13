@@ -1,3 +1,6 @@
+#It is a good practice to import libraries at beginning of the code.
+import math
+
 #1) Crie um programa que leia x1 e x2 e veja a inclinação:
 
 x1 = float(input('Digite o primeiro número: '))
@@ -117,8 +120,6 @@ print('                                     ')
 
 #Veja se existe solução R 
 #Se Δ > 0 - calcule x1 e x2. Senão print(não existe solução no R)
-
-import math
 
 a = float(input('Digite o valor de a: '))
 b = float(input('Digite o valor de b: '))
