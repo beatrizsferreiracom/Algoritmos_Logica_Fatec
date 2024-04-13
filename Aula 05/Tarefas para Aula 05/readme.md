@@ -60,27 +60,34 @@
 - Calcule a área;
 <hr>
 
-### Exercício 10 
+### Exercício 10
+
+- Leia do usuário a temperatura em celcius;
+- Converta a temperatura para fahrenheit;
+- Mostre a temperatura convertida;
+<hr>
+
+### Exercício 11 
 
 - Leia o preço do produto;
 - Leia o percentual de desconto;
 - Calcule o valor total;
 <hr>
 
-### Exercício 11 
+### Exercício 12 
 
 - Leia o valor da conta;
 - Leia o percentual de gorjeta;
 - Calcule o valor total;
 <hr>
 
-### Exercício 12 
+### Exercício 13 
 
 - Leia o valor em metros;
 - Calcule o valor em centímetros, quilômetros e milímetros;
 <hr>
 
-### Exercício 13 
+### Exercício 15 
 
 - Leia o valor;
 - Leia o percentual de juros;
@@ -89,14 +96,14 @@
 - Calcule o valor final (valor_principal + juros_simples);
 <hr>
 
-### Exercício 14 
+### Exercício 16
 
 - Leia o valor em dólares;
 - Calcule o valor em euros (valor_eur = valor_usd * taxa_eur);
 - Calcule o valor em reais (valor_brl = valor_usd * taxa_brl);
 <hr>
 
-### Exercício 15 
+### Exercício 17 
 
 - Leia o nome;
 - Leia o nome do meio;
@@ -104,9 +111,20 @@
 - Faça a concatenação das strings;
 <hr>
 
-### Exercício 16 
+### Exercício 18 
 
 - Leia o salário;
 - Calcule o imposto (salario * 0.15);
 - Calcule o INSS (salario * 0.17);
 - Calcule o valor total (salario - imposto - INSS);
+
+### Extras
+
+- Leia o raio de uma esfera e calcule o seu volume.
+- Modifique para calcular a área do:
+- Cubo
+- Paralelepípedo
+- Esfera
+- Cilindro
+- Cone
+<hr>
