@@ -52,6 +52,9 @@
 - F = G * M * m / d²
 
 F: força gravitacional
+
 G: constante de gravitação universal
+
 M e m: massas dos corpos
+
 d: distância entre os centros de gravidade dos corpos
