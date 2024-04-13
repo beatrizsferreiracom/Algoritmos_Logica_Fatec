@@ -43,3 +43,15 @@
 
 - Leia A, B, C, D;
 - Calcule (x = A² - √B²) (y = C² + √D²) (r = √(x + y)²)
+<hr>
+
+### Extra
+
+- Faça um programa que calcule a atração gravitacional de 2 objetos usando a massa e a distância.
+
+- F = G * M * m / d²
+
+F: força gravitacional
+G: constante de gravitação universal
+M e m: massas dos corpos
+d: distância entre os centros de gravidade dos corpos
