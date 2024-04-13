@@ -5,7 +5,9 @@
 - Considere o seguinte programa que soma 2 números do tipo float.
   
 num1 = float(input('Digite o primeiro número: ')) 
+
 num2 = float(input('Digite o segundo número: '))
+
 soma = num1 + num2
 
 print('A soma é ' + str(soma))
@@ -19,7 +21,9 @@ print('A soma é ' + str(soma))
 - Se baseie no seguinte programa que calcula a média de 3 notas. 
 
 nota1 = float(input('Digite a primeira nota: ')) 
+
 nota2 = float(input('Digite a segunda nota: ')) 
+
 nota3 = float(input('Digite a terceira nota: ')) 
 
 media = (nota1 + nota2 + nota3) / 3
@@ -35,8 +39,11 @@ print('A média é '+ str(media))
 - Crie um programa que:
 
 - 1. Leia a altura do retângulo na variável altura
+     
 - 2. Leia o largura do retângulo na variável largura
+     
 - 3. Calcule a área do retângulo: area =  largura * altura
+     
 - 4. Mostre o resultado do cálculo
   
 <hr>
