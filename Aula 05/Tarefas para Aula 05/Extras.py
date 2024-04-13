@@ -1,4 +1,4 @@
-#Tarefa 02: Considere o programa a seguir que leia o radio de uma esfera e calcule o volume:
+#Tarefa 02: Considere o programa a seguir que leia o raio de uma esfera e calcule o volume:
 
 print('                               ')
 print('VOLUME ESFERA')
