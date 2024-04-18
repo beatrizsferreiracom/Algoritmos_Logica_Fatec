@@ -39,7 +39,7 @@ senão
 - Calcular Δ1 = (x2-x1)² e Δ2 = (y2-y1)²;
 
 ````
-se Δ1 > Δ1:
+se Δ1 > Δ2:
     se x1 > x2:
         alfa = Δ1 * x1²
     senao:
