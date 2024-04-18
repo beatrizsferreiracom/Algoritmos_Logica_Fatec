@@ -27,4 +27,4 @@
 
 ### Exercício 5
 
-- 5) Escreva um programa que solicite ao usuário três valores representando os comprimentos dos lados de um suposto triângulo. O programa deve, então, verificar se é possível formar um triângulo com esses comprimentos e, em caso afirmativo, classificar o tipo de triângulo formado.
+- Escreva um programa que solicite ao usuário três valores representando os comprimentos dos lados de um suposto triângulo. O programa deve, então, verificar se é possível formar um triângulo com esses comprimentos e, em caso afirmativo, classificar o tipo de triângulo formado.
