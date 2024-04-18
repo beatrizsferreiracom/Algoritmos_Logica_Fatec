@@ -74,7 +74,7 @@ senão:
 ````
 se area > 50:
     se total > 350000:
-        se alguel > 1800:
+        se aluguel > 1800:
             preço = aluguel * 12 + total
         senão:
             preço = aluguel * 6 + total
