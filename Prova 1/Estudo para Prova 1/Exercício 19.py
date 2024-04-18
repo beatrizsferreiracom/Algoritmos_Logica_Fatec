@@ -19,5 +19,5 @@ elif tipo == 3:
 else:
     print('Opção inválida.')
 
-print('A média final é de', media, 'pontos.')
+print('A média final é de', round(media,2), 'pontos.')
 
