@@ -58,7 +58,7 @@ se serie == 'E1':
     se total > 180:
         imposto = total * 0.17
     senão
-        imopsto = total * 0.14
+        imposto = total * 0.14
 senão:
     se total > 199:
         imposto = total * 0.18
