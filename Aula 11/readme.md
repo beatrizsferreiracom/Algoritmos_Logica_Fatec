@@ -62,3 +62,15 @@ for numero in range(1, 11):
 ### Exercício 10
 
 - Altere o programa anterior, para que ele faça o produtório de 1 a 15.
+
+<hr>
+
+### Exercício 11
+
+- Faça um programa que leia a idade de 5 pessoas e exiba a soma das idades.
+
+<hr>
+
+### Exercício 12
+
+- Altere o programa anterior que realiza a soma das idade, para que ele calcule a MÉDIA das idades.
