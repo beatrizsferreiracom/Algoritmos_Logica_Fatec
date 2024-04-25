@@ -43,13 +43,8 @@ for numero in range(1, 11):
 
 ### Exercício 07
 
-- Altere o programa a seguir para mostrar os número ÍMPARES entre 1 e 20.
+- Altere o programa anterior, para mostrar os número ÍMPARES entre 1 e 20.
 
-````
-for num in range(1, 21): 
-     if num % 2 != 0: 
-           print (num)
-````
 <hr>
 
 ### Exercício 08
