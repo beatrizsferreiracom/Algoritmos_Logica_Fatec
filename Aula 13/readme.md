@@ -4,12 +4,12 @@
 
 - Teste o programa a seguir e explique o seu funcionamento:
 
-``
+````
 contador = 0
 while (contador < 5):
     print(contador)
     contador = contador + 1
-``
+````
 
 <hr>
 
@@ -17,14 +17,14 @@ while (contador < 5):
 
 - Execute o programa a seguir e explique seu funcionamento e explique também para que serve o else:
 
-``
+````
 x = 0
 while x < 10:
     print(x)
     x += 1
 else:
     print("fim while")
-``
+````
 
 <hr>
 
@@ -32,14 +32,14 @@ else:
 
 - Teste o programa a seguir e explique o seu funcionamento:
 
-``
+````
 contador = 10
 while contador > 0:
     print(contador)
     contador -= 1
 else:
     print("Fim da contagem regressiva!")
-``
+````
 
 <hr>
 
@@ -47,7 +47,7 @@ else:
 
 - Teste o programa a seguir e explique o seu funcionamento:
 
-``
+````
 senha = input("Digite uma senha: ")
 
 while senha != "1234":
@@ -55,7 +55,7 @@ while senha != "1234":
     senha = input("Digite a senha: novamente ")
 
 print("Senha correta! Acesso permitido.")
-``
+````
 
 <hr>
 
