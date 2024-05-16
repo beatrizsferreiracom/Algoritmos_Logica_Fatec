@@ -5,6 +5,7 @@
 - Teste o programa a seguir e explique o seu funcionamento:
 
 ``
+
 contador = 0
 while (contador < 5):        
     print(contador)        
@@ -18,6 +19,7 @@ while (contador < 5):
 - Execute o programa a seguir e explique seu funcionamento e explique também para que serve o else:
 
 ``
+
 x = 0
 while x < 10:
     print(x)
@@ -33,6 +35,7 @@ else:
 - Teste o programa a seguir e explique o seu funcionamento:
 
 ``
+
 contador = 10
 while contador > 0:
     print(contador)
@@ -48,6 +51,7 @@ else:
 - Teste o programa a seguir e explique o seu funcionamento:
 
 ``
+
 senha = input("Digite uma senha: ")
 
 while senha != "1234":
