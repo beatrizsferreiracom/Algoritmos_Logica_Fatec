@@ -79,7 +79,7 @@ print("Vetor:", vetor)
 
 ## Exercício 7
 
--Altere o programa para mostrar a média das notas dos alunos.
+- Altere o programa para mostrar a média das notas dos alunos.
 
 <hr>
 
