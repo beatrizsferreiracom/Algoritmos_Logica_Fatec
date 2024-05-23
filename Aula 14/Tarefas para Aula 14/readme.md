@@ -1,4 +1,4 @@
-### EXERCÍCIOS DO DIA 02/05/2024
+### EXERCÍCIOS DO DIA 10/05/2024
 
 ## Exercício 1
 
