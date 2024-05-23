@@ -1,6 +1,6 @@
 ## EXERCÍCIOS DO DIA 02/05/2024
 
-### Exercício 01
+### Exercício 1
 
 - Teste o programa a seguir e explique o seu funcionamento:
 
@@ -13,7 +13,7 @@ while (contador < 5):
 
 <hr>
 
-### Exercício 02
+### Exercício 2
 
 - Execute o programa a seguir e explique seu funcionamento e explique também para que serve o else:
 
@@ -28,7 +28,7 @@ else:
 
 <hr>
 
-### Exercício 03
+### Exercício 3
 
 - Teste o programa a seguir e explique o seu funcionamento:
 
