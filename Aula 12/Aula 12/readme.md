@@ -1,18 +1,18 @@
 ### EXERCÍCIOS DO DIA 02/05/2024
 
-## Exercício 01
+## Exercício 1
 
 - Crie um programa que leia um valor N do usuário e crie um FOR que mostre os números de N até 1.
 
 <hr>
 
-## Exercício 02
+## Exercício 2
 
 - Pergunte para o usuário o valor de N. Faça o for para apenas ler N notas do usuário.
 
 <hr>
 
-## Exercício 03
+## Exercício 3
 
 - Faça um programa que:
     - Leia do usuário o valor de N.
